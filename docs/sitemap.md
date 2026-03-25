@@ -1,6 +1,6 @@
 # 網站地圖 (Sitemap)
 
-> Complete Page Hierarchy & Navigation Design
+> 泳鉅鑫再生塑料 — Complete Page Hierarchy & Navigation Design
 
 ---
 
@@ -11,16 +11,20 @@
 │
 ├── 📦 產品中心 (/products)
 │   ├── 分類瀏覽 (/products?category={slug})
-│   │   ├── PE 聚乙烯 (/products?category=pe)
-│   │   ├── PP 聚丙烯 (/products?category=pp)
-│   │   ├── PS 聚苯乙烯 (/products?category=ps)
-│   │   ├── ABS (/products?category=abs)
-│   │   ├── PC 聚碳酸酯 (/products?category=pc)
-│   │   ├── POM 聚甲醛 (/products?category=pom)
-│   │   ├── PA 尼龍 (/products?category=pa)
-│   │   ├── PVC 聚氯乙烯 (/products?category=pvc)
-│   │   ├── PET 聚酯 (/products?category=pet)
-│   │   └── 其他工程塑料 (/products?category=others)
+│   │   ├── ★ PC 再生粒子 (/products?category=r-pc)  [主力產品]
+│   │   ├── PC 粉碎料 (/products?category=pc-crushed)
+│   │   ├── ABS 再生粒子 (/products?category=r-abs)
+│   │   ├── PP 再生粒子 (/products?category=r-pp)
+│   │   ├── PE 再生粒子 (/products?category=r-pe)
+│   │   ├── PA 再生粒子 (/products?category=r-pa)
+│   │   ├── PET 再生粒子 (/products?category=r-pet)
+│   │   ├── 其他再生料 (/products?category=r-others)
+│   │   └── 新料/原生料 (/products?category=virgin)
+│   ├── 依用途瀏覽 (/products?usage={slug})
+│   │   ├── 電子電器 (/products?usage=electronics)
+│   │   ├── 汽車零件 (/products?usage=automotive)
+│   │   ├── 光學應用 (/products?usage=optical)
+│   │   └── 一般射出成型 (/products?usage=injection)
 │   └── 產品詳情 (/products/{slug})
 │
 ├── 🏷️ 品牌專區 (/brands)
@@ -44,7 +48,19 @@
 ├── 🔧 服務項目 (/services)
 │   ├── 多源集采 (/services/multi-source)
 │   ├── 物流服務 (/services/logistics)
+│   ├── 廢料回收服務 (/services/recycling)  [Phase 3]
 │   └── 供應鏈金融 (/services/finance)  [Phase 4]
+│
+├── ♻️ ESG / 循環經濟 (/esg)
+│   ├── 永續發展理念 (/esg)
+│   ├── 碳排放計算器 (/esg/carbon-calculator)  [Phase 2]
+│   ├── ESG 報告下載 (/esg/reports)
+│   └── 廢塑料回收統計 (/esg/recycling-stats)
+│
+├── 🔬 品質保證 (/quality)
+│   ├── 檢測報告查詢 (/quality/reports)
+│   ├── 產品履歷追溯 (/quality/traceability)  [Phase 2]
+│   └── 認證與合規 (/quality/certifications)
 │
 ├── 📞 聯絡我們 (/contact)
 │

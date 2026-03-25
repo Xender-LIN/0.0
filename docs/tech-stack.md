@@ -1,6 +1,6 @@
 # 技術方案建議 (Technical Architecture Proposal)
 
-> Recommended Technology Stack & System Architecture
+> 泳鉅鑫再生塑料 — Recommended Technology Stack & System Architecture
 
 ---
 
@@ -114,11 +114,27 @@ users (使用者)
 products (產品)
 ├── id, name, slug, brand_id, category_id
 ├── material_type, model_number, origin
-├── specifications (JSONB - 物性參數)
+├── is_recycled (BOOLEAN - 是否為再生料)
+├── recycled_content_pct (再生料含量百分比)
+├── source_type (原料來源：post-industrial/post-consumer)
+├── specifications (JSONB - 物性參數：MFI, 密度, 拉伸強度等)
+├── carbon_footprint (DECIMAL - kg CO₂e/kg)
 ├── price, stock_quantity
 ├── tds_url, msds_url
+├── test_report_url (SGS/第三方檢測報告)
+├── batch_number (批次號碼)
+├── applicable_uses (JSONB - 適用用途：電子/汽車/光學等)
 ├── status (draft/published/archived)
 └── created_at, updated_at
+
+product_batches (產品批次履歷) — 再生塑料專用
+├── id, product_id, batch_number
+├── raw_material_source (原料來源描述)
+├── processing_date (加工日期)
+├── processing_steps (JSONB - 粉碎/清洗/造粒各階段記錄)
+├── test_report_url (該批次檢測報告)
+├── qr_code_url (追溯用 QR Code)
+└── created_at
 
 categories (分類)
 ├── id, name, slug, parent_id
