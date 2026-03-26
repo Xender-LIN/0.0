@@ -34,7 +34,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3">
-            <Image src="/logo.svg" alt="泳鉅鑫 Logo" width={44} height={44} className="rounded-full" />
+            <Image src="/0.0/logo.svg" alt="泳鉅鑫 Logo" width={44} height={44} className="rounded-full" />
             <div className="hidden sm:block">
               <div className="text-primary-700 font-bold text-lg leading-tight">泳鉅鑫再生塑料</div>
               <div className="text-xs text-gray-500">Yong Jyu Sin Plastic Co., Ltd.</div>

@@ -17,7 +17,7 @@ export default function AboutPage() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <div className="flex items-center gap-4 mb-6">
-                <Image src="/logo.svg" alt="泳鉅鑫 Logo" width={64} height={64} className="rounded-full" />
+                <Image src="/0.0/logo.svg" alt="泳鉅鑫 Logo" width={64} height={64} className="rounded-full" />
                 <div>
                   <h2 className="text-2xl font-bold text-gray-900">泳鉅鑫再生塑料股份有限公司</h2>
                   <p className="text-gray-500">Yong Jyu Sin Plastic Co., Ltd.</p>

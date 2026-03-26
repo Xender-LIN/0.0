@@ -9,7 +9,7 @@ export default function Footer() {
           {/* Company info */}
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <Image src="/logo.svg" alt="泳鉅鑫 Logo" width={40} height={40} className="rounded-full" />
+              <Image src="/0.0/logo.svg" alt="泳鉅鑫 Logo" width={40} height={40} className="rounded-full" />
               <div>
                 <div className="text-white font-bold">泳鉅鑫再生塑料</div>
                 <div className="text-xs text-gray-500">Yong Jyu Sin Plastic</div>

@@ -24,9 +24,11 @@ jobs:
           cache: 'npm'
           cache-dependency-path: website/package-lock.json
       - name: Install dependencies
-        run: cd website && npm ci
+        run: cd website && npm install
       - name: Build
         run: cd website && npm run build
+      - name: Verify CSS exists
+        run: ls -la website/out/_next/static/css/ && echo "CSS OK"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
