@@ -1,0 +1,473 @@
+{
+  "metadata": {
+    "company": "泳鉅鑫再生塑料股份有限公司",
+    "product_sell": "再生PC顆粒",
+    "product_buy": "PC粗料、PC粉碎料",
+    "version": "1.0",
+    "lastUpdated": "2026-03"
+  },
+  "regions": [
+    {
+      "regionName": "华北",
+      "regionCode": "HB",
+      "markets": [
+        {
+          "id": "HB-001",
+          "name": "河北文安伊村塑料市场",
+          "province": "河北",
+          "city": "廊坊市文安县",
+          "marketType": "综合塑料集散市场",
+          "estimatedVendors": 300,
+          "sales": {
+            "targetBuyers": "塑料贸易商、二级经销商、小批量工厂采购",
+            "avgOrderSize": "5-20吨/批",
+            "keyMessage": "台湾稳定货源，PC含量100%，每批SGS检测报告，可长期合作",
+            "priceDrivers": ["货源稳定性", "含量一致性", "价格竞争力"],
+            "preferredContact": ["微信", "电话", "1688旺旺"]
+          },
+          "procurement": {
+            "targetSuppliers": "废料收集商、二手料贸易商、小型分拣站",
+            "availableMaterials": ["PC粗料", "PC粉碎料", "PC/ABS混料（需高PC含量）"],
+            "keyMessage": "长期大量收购PC粗料/粉碎料，价格透明，货到付款",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "全年，避开春节前后两周",
+          "b2bPlatforms": ["1688", "废塑料之家"],
+          "note": "华北最大再生塑料集散地，价格敏感，以量取胜，注重稳定供货关系"
+        },
+        {
+          "id": "HB-002",
+          "name": "河北定州北方循环经济园区",
+          "province": "河北",
+          "city": "保定市定州",
+          "marketType": "政府主导循环经济产业园",
+          "estimatedVendors": 80,
+          "sales": {
+            "targetBuyers": "园区内加工企业采购部门、政策引导型下游企业",
+            "avgOrderSize": "10-50吨/批",
+            "keyMessage": "台湾品质认证，ESG碳足迹报告齐全，符合园区绿色发展要求",
+            "priceDrivers": ["质量认证", "ESG合规", "政策符合度"],
+            "preferredContact": ["邮件", "微信", "电话"]
+          },
+          "procurement": {
+            "targetSuppliers": "园区内分拣厂、政策补贴回收站",
+            "availableMaterials": ["PC粉碎料", "混合工程塑料（含PC）"],
+            "keyMessage": "台湾工厂长期采购，合法合规，可开增值税发票",
+            "preferredContact": ["邮件", "电话"]
+          },
+          "visitSeason": "3-5月、9-11月（园区活动旺季）",
+          "b2bPlatforms": ["慧聪网", "1688"],
+          "note": "政府背景园区，采购决策相对正式，需提供完整资质文件"
+        },
+        {
+          "id": "HB-003",
+          "name": "山东临沂华东塑料橡胶市场",
+          "province": "山东",
+          "city": "临沂市",
+          "marketType": "综合塑料橡胶批发市场",
+          "estimatedVendors": 500,
+          "sales": {
+            "targetBuyers": "贸易商、小型注塑厂采购、橡塑综合采购商",
+            "avgOrderSize": "3-15吨/批",
+            "keyMessage": "再生PC颗粒品质稳定，适用多种注塑应用，台湾直发",
+            "priceDrivers": ["价格", "应用范围广", "货期快"],
+            "preferredContact": ["微信", "1688旺旺", "电话"]
+          },
+          "procurement": {
+            "targetSuppliers": "废料中间商、小型拆解厂",
+            "availableMaterials": ["PC粗料", "PC粉碎料"],
+            "keyMessage": "长期收购PC料，价高于市场均价，快速付款",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "全年",
+          "b2bPlatforms": ["1688", "中塑在线"],
+          "note": "华北辐射山东的重要集散地，买家多元，适合广泛触达"
+        }
+      ]
+    },
+    {
+      "regionName": "华东",
+      "regionCode": "HD",
+      "markets": [
+        {
+          "id": "HD-001",
+          "name": "浙江余姚中国塑料城",
+          "province": "浙江",
+          "city": "宁波市余姚",
+          "marketType": "中国最大塑料交易市场",
+          "estimatedVendors": 5000,
+          "sales": {
+            "targetBuyers": "专业塑料贸易商、原料代理商、下游注塑厂采购",
+            "avgOrderSize": "5-30吨/批",
+            "keyMessage": "台湾再生PC，品质对标原生料，每批出具SGS报告，可长期稳定供货",
+            "priceDrivers": ["品质稳定性", "价格竞争力", "货源持续性"],
+            "preferredContact": ["1688旺旺", "微信", "电话"]
+          },
+          "procurement": {
+            "targetSuppliers": "废料收集贸易商、大量PC废料中间商",
+            "availableMaterials": ["PC粗料", "PC粉碎料", "光碟级PC废料"],
+            "keyMessage": "余姚设常驻代采，长期高价收购PC粗料，批量越大价格越高",
+            "preferredContact": ["1688旺旺", "微信"]
+          },
+          "visitSeason": "全年（每年11月余姚国际塑料博览会重点参与）",
+          "b2bPlatforms": ["1688", "中国塑料城官网", "中塑在线", "易塑网"],
+          "note": "中国塑料城是最重要战场，必须在1688开店，竞争激烈需强调品质差异化"
+        },
+        {
+          "id": "HD-002",
+          "name": "浙江台州路桥峰江塑料城",
+          "province": "浙江",
+          "city": "台州市路桥区峰江",
+          "marketType": "电子电气塑料专业市场",
+          "estimatedVendors": 800,
+          "sales": {
+            "targetBuyers": "电子电气配件厂采购、阻燃塑料需求企业",
+            "avgOrderSize": "5-20吨/批",
+            "keyMessage": "电子级再生PC，MFI稳定，阻燃等级V0/V2可选，台湾品质",
+            "priceDrivers": ["阻燃性能", "MFI稳定性", "外观一致性"],
+            "preferredContact": ["微信", "电话", "1688"]
+          },
+          "procurement": {
+            "targetSuppliers": "电子厂废料部门、电子产品拆解厂",
+            "availableMaterials": ["电子级PC边角料", "PC粉碎料（电子来源）"],
+            "keyMessage": "专收电子级PC废料，含量要求高，出价高于普通废料商",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "全年",
+          "b2bPlatforms": ["1688", "慧聪网"],
+          "note": "峰江是台州电子塑料核心集散地，电子级PC需求旺盛"
+        },
+        {
+          "id": "HD-003",
+          "name": "浙江台州国际塑料城",
+          "province": "浙江",
+          "city": "台州市",
+          "marketType": "国际化综合塑料交易市场",
+          "estimatedVendors": 1200,
+          "sales": {
+            "targetBuyers": "出口导向制造商、国际贸易商、有ESG报告需求的采购",
+            "avgOrderSize": "10-50吨/批",
+            "keyMessage": "台湾出口级再生PC，碳足迹证明、RoHS/REACH合规文件齐全，支持ESG审计",
+            "priceDrivers": ["合规文件完整性", "可追溯性", "ESG数据"],
+            "preferredContact": ["邮件", "微信", "1688"]
+          },
+          "procurement": {
+            "targetSuppliers": "进出口废料商、品牌大厂边角料供应商",
+            "availableMaterials": ["进口PC废料", "品牌厂PC边角料"],
+            "keyMessage": "台湾工厂直接采购，可出具收购合同，配合企业废料处置需求",
+            "preferredContact": ["邮件", "微信"]
+          },
+          "visitSeason": "全年",
+          "b2bPlatforms": ["1688", "Alibaba国际站", "中塑在线"],
+          "note": "国际化程度高，买家对文件要求严格，需准备完整合规文件包"
+        },
+        {
+          "id": "HD-004",
+          "name": "江苏宿迁耿车塑料产业园",
+          "province": "江苏",
+          "city": "宿迁市沭阳县耿车镇",
+          "marketType": "村级转型再生塑料产业园",
+          "estimatedVendors": 600,
+          "sales": {
+            "targetBuyers": "再生料加工厂、初级造粒厂",
+            "avgOrderSize": "10-30吨/批",
+            "keyMessage": "台湾来料品质有保证，可替代原生料使用，稳定批量供应",
+            "priceDrivers": ["价格", "含量稳定", "批量供货能力"],
+            "preferredContact": ["微信", "电话"]
+          },
+          "procurement": {
+            "targetSuppliers": "废塑料分拣廠、初级回收站",
+            "availableMaterials": ["PC粗料", "PC粉碎料（各级别）"],
+            "keyMessage": "长期大量收购，一口价不压级，当天验收当天付款",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "全年",
+          "b2bPlatforms": ["废塑料之家", "1688"],
+          "note": "耿车是苏北最大废塑料产业园，原料供应量大，也是采购来源重点"
+        },
+        {
+          "id": "HD-005",
+          "name": "安徽界首光武科技园",
+          "province": "安徽",
+          "city": "阜阳市界首市光武镇",
+          "marketType": "政府主导循环经济科技园",
+          "estimatedVendors": 200,
+          "sales": {
+            "targetBuyers": "园区内下游制造企业、政策驱动循环经济企业",
+            "avgOrderSize": "10-50吨/批",
+            "keyMessage": "台湾循环经济品牌，ESG报告完整，配合政府绿色采购要求",
+            "priceDrivers": ["绿色认证", "ESG合规", "稳定供货"],
+            "preferredContact": ["邮件", "微信", "电话"]
+          },
+          "procurement": {
+            "targetSuppliers": "园区分拣企业、政策补贴回收站",
+            "availableMaterials": ["PC粉碎料", "工程塑料混料（含PC）"],
+            "keyMessage": "协助园区企业废料变现，长期合作，按质定价",
+            "preferredContact": ["电话", "邮件"]
+          },
+          "visitSeason": "3-5月、9-11月",
+          "b2bPlatforms": ["慧聪网", "1688"],
+          "note": "政府背景园区，决策周期较长，建议先与园区管委会建立联系"
+        }
+      ]
+    },
+    {
+      "regionName": "华南",
+      "regionCode": "HN",
+      "markets": [
+        {
+          "id": "HN-001",
+          "name": "广东东莞樟木头塑胶原料市场",
+          "province": "广东",
+          "city": "东莞市樟木头镇",
+          "marketType": "电子电气塑胶原料专业市场",
+          "estimatedVendors": 400,
+          "sales": {
+            "targetBuyers": "珠三角电子厂采购主管、手机/家电壳体供应商采购",
+            "avgOrderSize": "5-25吨/批",
+            "keyMessage": "电子级再生PC，色差ΔE<1，MFI公差±1g/10min，每批检测报告，台湾品质",
+            "priceDrivers": ["外观一致性", "MFI稳定", "品质证明文件"],
+            "preferredContact": ["微信", "电话"]
+          },
+          "procurement": {
+            "targetSuppliers": "电子厂废料采购部、电子产品拆解回收商",
+            "availableMaterials": ["电子壳体PC废料", "PC边角料", "光碟PC废料"],
+            "keyMessage": "专收电子级PC废料，价格高于市场10-15%，可上门收货",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "全年（避开春节及电子厂大规模停产期）",
+          "b2bPlatforms": ["1688", "慧聪网"],
+          "note": "珠三角电子供应链核心，客户单价高但对品质要求极严"
+        },
+        {
+          "id": "HN-002",
+          "name": "广东东莞常平大京九塑料城",
+          "province": "广东",
+          "city": "东莞市常平镇",
+          "marketType": "东莞最大综合塑料交易市场",
+          "estimatedVendors": 1500,
+          "sales": {
+            "targetBuyers": "综合采购商、中小型注塑工厂采购、贸易商",
+            "avgOrderSize": "3-20吨/批",
+            "keyMessage": "现货供应，快速发货，台湾再生PC质量稳定，支持小批量起订",
+            "priceDrivers": ["货期快", "现货充足", "价格合理"],
+            "preferredContact": ["微信", "电话", "1688旺旺"]
+          },
+          "procurement": {
+            "targetSuppliers": "废料中间商、各类塑料废料收集站",
+            "availableMaterials": ["PC粗料", "PC粉碎料", "PC混料（高含量）"],
+            "keyMessage": "长期大量收购，现场验货，当场付款，不压级不克重",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "全年",
+          "b2bPlatforms": ["1688", "废塑料之家", "中塑在线"],
+          "note": "东莞最大市场，人流量大，适合广泛开发，注重现货和快速响应"
+        },
+        {
+          "id": "HN-003",
+          "name": "广东佛山大沥塑料城",
+          "province": "广东",
+          "city": "佛山市南海区大沥镇",
+          "marketType": "家电/家具行业配套塑料市场",
+          "estimatedVendors": 800,
+          "sales": {
+            "targetBuyers": "家电外壳制造商、建材配件厂采购、家具五金塑料采购",
+            "avgOrderSize": "5-30吨/批",
+            "keyMessage": "再生PC颗粒色彩稳定，可定制颜色，适合家电外壳，性价比高",
+            "priceDrivers": ["颜色一致性", "价格", "可定制性"],
+            "preferredContact": ["微信", "电话"]
+          },
+          "procurement": {
+            "targetSuppliers": "家电拆解回收厂、PC废料中间商",
+            "availableMaterials": ["家电PC外壳废料", "PC粉碎料"],
+            "keyMessage": "收购家电回收PC料，量大从优，专业分级",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "全年",
+          "b2bPlatforms": ["1688", "慧聪网"],
+          "note": "佛山家电产业集群，PC用量大，颜色匹配是核心竞争力"
+        },
+        {
+          "id": "HN-004",
+          "name": "广东佛山顺德乐从得富塑料城",
+          "province": "广东",
+          "city": "佛山市顺德区乐从镇",
+          "marketType": "家电零件配套塑料专业市场",
+          "estimatedVendors": 600,
+          "sales": {
+            "targetBuyers": "家电零部件厂采购、透明PC制品制造商",
+            "avgOrderSize": "5-20吨/批",
+            "keyMessage": "透明/水白PC再生料，透光率≥88%，适合灯罩、家电透明件，台湾品质",
+            "priceDrivers": ["透明度", "外观一致性", "热稳定性"],
+            "preferredContact": ["微信", "电话"]
+          },
+          "procurement": {
+            "targetSuppliers": "透明PC废料供应商、家电厂透明件边角料",
+            "availableMaterials": ["透明PC粗料", "水白PC粉碎料", "光学级PC废料"],
+            "keyMessage": "专收透明/水白PC废料，价格高于普通色料20-30%",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "全年",
+          "b2bPlatforms": ["1688", "中塑在线"],
+          "note": "顺德家电重镇，透明PC需求大，是高价值产品线的重点市场"
+        },
+        {
+          "id": "HN-005",
+          "name": "广西梧州进口再生资源加工园区",
+          "province": "广西",
+          "city": "梧州市",
+          "marketType": "跨境进口再生资源加工园区",
+          "estimatedVendors": 100,
+          "sales": {
+            "targetBuyers": "进口料加工商、贸易商（有跨境需求）",
+            "avgOrderSize": "20-100吨/批",
+            "keyMessage": "台湾直发，正规进口报关，品质证明文件齐全，可配合海关合规要求",
+            "priceDrivers": ["进口合规性", "文件完整性", "原产地证明"],
+            "preferredContact": ["邮件", "微信", "电话"]
+          },
+          "procurement": {
+            "targetSuppliers": "进口PC废料供应商、跨境废料加工商",
+            "availableMaterials": ["进口PC废料", "跨境PC粉碎料"],
+            "keyMessage": "台湾工厂直接采购进口PC废料，配合园区政策，合法合规",
+            "preferredContact": ["邮件", "微信"]
+          },
+          "visitSeason": "全年",
+          "b2bPlatforms": ["1688", "Alibaba国际站"],
+          "note": "梧州进口料加工园区政策优势明显，是进口料采购和销售的战略要地"
+        }
+      ]
+    },
+    {
+      "regionName": "华中",
+      "regionCode": "HZ",
+      "markets": [
+        {
+          "id": "HZ-001",
+          "name": "河南长葛大周再生金属塑料城",
+          "province": "河南",
+          "city": "许昌市长葛市大周镇",
+          "marketType": "金属塑料综合再生资源市场",
+          "estimatedVendors": 1000,
+          "sales": {
+            "targetBuyers": "中部地区贸易商、向工厂供货的原料经销商",
+            "avgOrderSize": "10-50吨/批",
+            "keyMessage": "台湾再生PC，质量稳定，大批量可议价，中部地区发货快",
+            "priceDrivers": ["批量价格", "物流便利", "货源持续"],
+            "preferredContact": ["微信", "电话", "1688旺旺"]
+          },
+          "procurement": {
+            "targetSuppliers": "废塑料集散贸易商、分拣加工站",
+            "availableMaterials": ["PC粗料", "PC粉碎料", "混合工程塑料"],
+            "keyMessage": "长期大量收购PC废料，中部价格+全国竞价，诚信经营",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "全年",
+          "b2bPlatforms": ["废塑料之家", "1688", "慧聪网"],
+          "note": "大周是中国最大的再生资源集散地之一，辐射中部六省，战略位置重要"
+        },
+        {
+          "id": "HZ-002",
+          "name": "湖南汨罗循环经济产业园",
+          "province": "湖南",
+          "city": "岳阳市汨罗市",
+          "marketType": "国家级循环经济示范园区",
+          "estimatedVendors": 150,
+          "sales": {
+            "targetBuyers": "园区内循环经济企业、政策驱动型采购方",
+            "avgOrderSize": "10-60吨/批",
+            "keyMessage": "台湾循环经济标杆企业，碳中和报告、SGS认证齐全，对标国家循环经济标准",
+            "priceDrivers": ["ESG合规", "碳足迹认证", "政策符合度"],
+            "preferredContact": ["邮件", "微信"]
+          },
+          "procurement": {
+            "targetSuppliers": "园区分拣企业、废料回收站",
+            "availableMaterials": ["PC粉碎料", "工程塑料分拣料"],
+            "keyMessage": "协助园区废料变现出口，台湾工厂直接采购，价格透明公正",
+            "preferredContact": ["邮件", "电话"]
+          },
+          "visitSeason": "3-5月、9-11月",
+          "b2bPlatforms": ["慧聪网", "1688"],
+          "note": "汨罗是国家循环经济示范区，政府背景强，ESG话语权高，需提供完整合规资料"
+        }
+      ]
+    },
+    {
+      "regionName": "西南/西北/东北",
+      "regionCode": "QT",
+      "markets": [
+        {
+          "id": "QT-001",
+          "name": "重庆双桥废旧塑料市场",
+          "province": "重庆",
+          "city": "重庆市大足区双桥",
+          "marketType": "汽车/工业配套废旧塑料市场",
+          "estimatedVendors": 200,
+          "sales": {
+            "targetBuyers": "汽车零配件厂采购、西南地区工业品制造商",
+            "avgOrderSize": "5-20吨/批",
+            "keyMessage": "汽车级再生PC，抗冲击强度高，热变形温度≥125°C，符合汽车内饰要求",
+            "priceDrivers": ["抗冲击性能", "热稳定性", "颜色一致性"],
+            "preferredContact": ["微信", "电话"]
+          },
+          "procurement": {
+            "targetSuppliers": "汽车拆解厂、工业塑料废料回收商",
+            "availableMaterials": ["汽车PC件粗料", "工业级PC粉碎料"],
+            "keyMessage": "收购汽车拆解PC料，专业鉴别，分级收购，价格公道",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "全年",
+          "b2bPlatforms": ["1688", "废塑料之家"],
+          "note": "重庆是西南汽车重镇，PC料用量大，汽车级品质要求高"
+        },
+        {
+          "id": "QT-002",
+          "name": "新疆米东再生资源产业园",
+          "province": "新疆",
+          "city": "乌鲁木齐市米东区",
+          "marketType": "西北地区再生资源产业园",
+          "estimatedVendors": 60,
+          "sales": {
+            "targetBuyers": "西北工厂采购、园区内制造企业",
+            "avgOrderSize": "5-20吨/批",
+            "keyMessage": "台湾再生PC，稳定远程供应链，保税仓备货，不因距离影响货期",
+            "priceDrivers": ["供货稳定性", "物流保障", "价格"],
+            "preferredContact": ["微信", "电话", "邮件"]
+          },
+          "procurement": {
+            "targetSuppliers": "西北地区废料回收站、园区分拣企业",
+            "availableMaterials": ["PC粗料", "PC粉碎料"],
+            "keyMessage": "西北地区PC废料收购，高于本地价格，安排物流上门收货",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "4-10月（避开严冬）",
+          "b2bPlatforms": ["1688", "慧聪网"],
+          "note": "新疆地处偏远，物流成本是核心顾虑，需提供有竞争力的物流方案"
+        },
+        {
+          "id": "QT-003",
+          "name": "辽宁沈阳张士塑料市场",
+          "province": "辽宁",
+          "city": "沈阳市铁西区张士",
+          "marketType": "东北最大综合塑料市场",
+          "estimatedVendors": 400,
+          "sales": {
+            "targetBuyers": "汽车零件厂采购（宝马沈阳、华晨等供应链）、工业品制造商",
+            "avgOrderSize": "5-25吨/批",
+            "keyMessage": "汽车级/工业级再生PC，技术规格书齐全，可配合Tier1供应商审厂",
+            "priceDrivers": ["技术规格", "认证文件", "长期稳定性"],
+            "preferredContact": ["微信", "电话", "邮件"]
+          },
+          "procurement": {
+            "targetSuppliers": "汽车拆解厂、东北工业废料回收站",
+            "availableMaterials": ["汽车级PC废料", "工业PC粗料", "PC粉碎料"],
+            "keyMessage": "东北PC废料长期收购，按季节灵活安排，合理定价",
+            "preferredContact": ["微信", "电话"]
+          },
+          "visitSeason": "4-10月（避开东北严冬，春秋最佳）",
+          "b2bPlatforms": ["1688", "慧聪网", "废塑料之家"],
+          "note": "沈阳是东北汽车产业链核心，品质要求高，建立长期关系比一次性交易更重要"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "company": "泳鉅鑫再生塑料股份有限公司",
+    "product_sell": "Recycled PC Pellets / 再生PC顆粒",
+    "product_buy": "PC Scrap / PC Regrind",
+    "version": "1.0",
+    "lastUpdated": "2026-03",
+    "primaryLanguage": "English (with local language notes)"
+  },
+  "regions": [
+    {
+      "regionName": "Southeast Asia",
+      "markets": [
+        {
+          "id": "SEA-001",
+          "country": "Vietnam",
+          "city": "Ho Chi Minh City / Hanoi",
+          "targetIndustries": ["Electronics", "Consumer goods", "Automotive parts"],
+          "sales": {
+            "targetBuyers": "Electronics manufacturers (Samsung/LG suppliers), plastic injection molding factories",
+            "keyMessage": "Taiwan-quality recycled PC pellets, stable MFI, RoHS compliant, competitive pricing vs virgin resin",
+            "avgOrderSize": "10-50 tons/batch",
+            "preferredContact": ["WhatsApp", "Email", "Zalo (local app)"]
+          },
+          "procurement": {
+            "targetSuppliers": "Electronics factory waste departments, dismantling workshops",
+            "availableMaterials": ["PC scrap from electronics factories", "PC regrind"],
+            "keyMessage": "We buy PC scrap directly from your factory, fair pricing, fast payment"
+          },
+          "b2bPlatforms": ["TradeKey", "Alibaba International", "Vietnam B2B (vn.b2b.vn)"],
+          "currency": "USD / VND",
+          "note": "Vietnam is a major electronics manufacturing hub. Focus on Samsung/LG/Foxconn supply chain plastics buyers."
+        },
+        {
+          "id": "SEA-002",
+          "country": "Thailand",
+          "city": "Bangkok / Rayong Industrial Zone",
+          "targetIndustries": ["Automotive", "Electronics", "Packaging"],
+          "sales": {
+            "targetBuyers": "Automotive parts suppliers (Tier 1/2), electronics manufacturers",
+            "keyMessage": "Automotive-grade recycled PC, heat deflection temp ≥125°C, impact resistant, Taiwan quality certification",
+            "avgOrderSize": "10-50 tons/batch",
+            "preferredContact": ["WhatsApp", "Email", "LINE (popular in Thailand)"]
+          },
+          "procurement": {
+            "targetSuppliers": "Automotive dismantling yards, electronics factory waste",
+            "availableMaterials": ["Auto-grade PC scrap", "Electronics PC waste"],
+            "keyMessage": "We purchase PC scrap from auto and electronics sectors, competitive prices"
+          },
+          "b2bPlatforms": ["TradeKey", "Alibaba International", "ThaiTrade"],
+          "currency": "USD / THB",
+          "note": "Rayong industrial zone has major auto manufacturers. LINE is the dominant messaging app."
+        },
+        {
+          "id": "SEA-003",
+          "country": "Malaysia",
+          "city": "Penang / Johor Bahru / Kuala Lumpur",
+          "targetIndustries": ["Electronics", "Semiconductor packaging", "Medical devices"],
+          "sales": {
+            "targetBuyers": "Electronics manufacturers, semiconductor packaging companies, medical device makers",
+            "keyMessage": "High-purity recycled PC, ISO 9001 certified, RoHS/REACH compliant, suitable for electronics and medical applications",
+            "avgOrderSize": "5-30 tons/batch",
+            "preferredContact": ["WhatsApp", "Email"]
+          },
+          "procurement": {
+            "targetSuppliers": "Electronics factory waste departments, IC packaging waste",
+            "availableMaterials": ["High-purity PC scrap from electronics", "PC regrind"],
+            "keyMessage": "We collect PC scrap from electronics factories in Penang/JB, premium pricing for clean material"
+          },
+          "b2bPlatforms": ["TradeKey", "Alibaba International", "Malaysia B2B"],
+          "currency": "USD / MYR",
+          "note": "Penang is Silicon Valley of the East - high-quality PC scrap available from electronics factories."
+        },
+        {
+          "id": "SEA-004",
+          "country": "Indonesia",
+          "city": "Jakarta / Batam / Bekasi Industrial Area",
+          "targetIndustries": ["Consumer electronics", "Household appliances", "Automotive"],
+          "sales": {
+            "targetBuyers": "Consumer electronics manufacturers, appliance producers",
+            "keyMessage": "Recycled PC pellets at competitive prices, stable quality, Taiwan sourced, supports sustainability goals",
+            "avgOrderSize": "10-40 tons/batch",
+            "preferredContact": ["WhatsApp", "Email"]
+          },
+          "procurement": {
+            "targetSuppliers": "Electronics dismantling yards in Batam, factory waste collectors",
+            "availableMaterials": ["Electronics PC scrap", "Appliance PC waste"],
+            "keyMessage": "Buying PC scrap from Indonesian factories, USD payment, reliable buyer"
+          },
+          "b2bPlatforms": ["TradeKey", "Alibaba International", "Kaskus B2B"],
+          "currency": "USD / IDR",
+          "note": "Batam is a free trade zone with heavy electronics manufacturing. WhatsApp is the primary business communication tool."
+        }
+      ]
+    },
+    {
+      "regionName": "South Asia",
+      "markets": [
+        {
+          "id": "SA-001",
+          "country": "India",
+          "city": "Ludhiana (Punjab) / Ahmedabad (Gujarat) / Mumbai",
+          "targetIndustries": ["Automotive", "Consumer goods", "Electrical components"],
+          "sales": {
+            "targetBuyers": "Auto parts manufacturers, electrical goods producers, plastic processors",
+            "keyMessage": "Taiwan recycled PC pellets, consistent quality, bulk pricing available, RoHS compliant",
+            "avgOrderSize": "10-50 tons/batch",
+            "preferredContact": ["WhatsApp", "Email", "IndiaMART inquiry"]
+          },
+          "procurement": {
+            "targetSuppliers": "E-waste processors, auto dismantling yards, plastic scrap dealers",
+            "availableMaterials": ["PC scrap from e-waste", "Auto PC components", "PC regrind"],
+            "keyMessage": "We buy PC scrap from India, USD payment, no minimum quantity for premium material"
+          },
+          "b2bPlatforms": ["IndiaMART", "TradeIndia", "Alibaba International"],
+          "currency": "USD / INR",
+          "note": "India has a massive plastics recycling ecosystem. Ludhiana and Ahmedabad are major plastics hubs. IndiaMART is essential."
+        }
+      ]
+    },
+    {
+      "regionName": "Northeast Asia",
+      "markets": [
+        {
+          "id": "NEA-001",
+          "country": "South Korea",
+          "city": "Incheon / Gyeonggi-do",
+          "targetIndustries": ["Electronics", "Semiconductor", "Automotive"],
+          "sales": {
+            "targetBuyers": "Samsung/LG/Hyundai supply chain plastic buyers, electronics component manufacturers",
+            "keyMessage": "Premium Taiwan recycled PC, quality matching virgin resin standards, full traceability, ESG documentation",
+            "avgOrderSize": "10-50 tons/batch",
+            "preferredContact": ["Email", "KakaoTalk (business)", "Phone"]
+          },
+          "procurement": {
+            "targetSuppliers": "Electronics factory waste departments, certified e-waste processors",
+            "availableMaterials": ["High-grade PC scrap from Samsung/LG factories", "Electronics PC regrind"],
+            "keyMessage": "We purchase Korean-sourced PC scrap, premium pricing for certified clean material"
+          },
+          "b2bPlatforms": ["EC21", "Kompass Korea", "Alibaba International"],
+          "currency": "USD / KRW",
+          "note": "Korean buyers are quality-focused and require thorough documentation. KakaoTalk is the primary messaging app."
+        }
+      ]
+    },
+    {
+      "regionName": "Europe",
+      "markets": [
+        {
+          "id": "EU-001",
+          "country": "Germany",
+          "city": "Frankfurt / Stuttgart / Hamburg",
+          "targetIndustries": ["Automotive", "Industrial machinery", "Consumer goods"],
+          "sales": {
+            "targetBuyers": "Auto parts manufacturers, industrial plastics processors, sustainability-focused brands",
+            "keyMessage": "RecyClass-compatible recycled PC, full carbon footprint LCA report, REACH compliant, EU import ready",
+            "avgOrderSize": "20-100 tons/batch",
+            "preferredContact": ["Email", "LinkedIn", "Phone"]
+          },
+          "procurement": {
+            "targetSuppliers": "German certified e-waste processors, auto dismantlers",
+            "availableMaterials": ["High-purity PC scrap", "Automotive PC components"],
+            "keyMessage": "We purchase EU-sourced PC scrap for our Taiwan recycling facility, certified buyer, GDPR compliant"
+          },
+          "b2bPlatforms": ["Plastix Global", "RecyClass", "Alibaba International", "Kompass"],
+          "currency": "EUR / USD",
+          "note": "Germany has the EU's highest recycled content demand. Full compliance documentation is non-negotiable."
+        },
+        {
+          "id": "EU-002",
+          "country": "Netherlands",
+          "city": "Rotterdam / Amsterdam",
+          "targetIndustries": ["Logistics/trading", "Chemical industry", "Consumer goods"],
+          "sales": {
+            "targetBuyers": "Rotterdam port-based plastics importers, European material traders",
+            "keyMessage": "Taiwan recycled PC, Rotterdam-delivered pricing available, full EU import documentation, sustainable sourcing",
+            "avgOrderSize": "20-100 tons/batch",
+            "preferredContact": ["Email", "LinkedIn"]
+          },
+          "procurement": {
+            "targetSuppliers": "Port-based scrap plastics traders, European recycling aggregators",
+            "availableMaterials": ["EU-sourced PC scrap", "Post-consumer PC material"],
+            "keyMessage": "We are a Taiwanese manufacturer seeking EU PC scrap, will arrange Rotterdam pickup"
+          },
+          "b2bPlatforms": ["Plastix Global", "Recycling Exchange", "Alibaba International"],
+          "currency": "EUR / USD",
+          "note": "Rotterdam is Europe's largest port. Many plastics traders use it as their European hub."
+        },
+        {
+          "id": "EU-003",
+          "country": "Turkey",
+          "city": "Istanbul / Bursa / Gaziantep",
+          "targetIndustries": ["Automotive", "Textiles", "Consumer goods", "Construction"],
+          "sales": {
+            "targetBuyers": "Auto parts manufacturers (Bursa), consumer goods producers, plastic processors",
+            "keyMessage": "Competitive pricing on recycled PC, Taiwan quality, suitable for automotive and consumer applications",
+            "avgOrderSize": "10-50 tons/batch",
+            "preferredContact": ["WhatsApp", "Email"]
+          },
+          "procurement": {
+            "targetSuppliers": "Turkish scrap plastic dealers, auto dismantling yards",
+            "availableMaterials": ["PC scrap", "Auto PC components"],
+            "keyMessage": "We buy Turkish PC scrap, USD payment, reliable long-term buyer"
+          },
+          "b2bPlatforms": ["TradeKey", "Alibaba International", "Turkey B2B portals"],
+          "currency": "USD / EUR / TRY",
+          "note": "Turkey is a bridge between Europe and Asia. WhatsApp widely used for business."
+        }
+      ]
+    },
+    {
+      "regionName": "Middle East",
+      "markets": [
+        {
+          "id": "ME-001",
+          "country": "UAE",
+          "city": "Sharjah / Dubai Industrial Area",
+          "targetIndustries": ["Re-export trading", "Electronics", "Construction"],
+          "sales": {
+            "targetBuyers": "UAE-based plastics importers/re-exporters, electronics manufacturers, Gulf region distributors",
+            "keyMessage": "Taiwan recycled PC for Middle East and Africa distribution, competitive pricing, full documentation",
+            "avgOrderSize": "20-100 tons/batch",
+            "preferredContact": ["WhatsApp", "Email"]
+          },
+          "procurement": {
+            "targetSuppliers": "Sharjah recycling zone processors, Gulf region scrap aggregators",
+            "availableMaterials": ["PC scrap from Gulf electronics", "Post-industrial PC waste"],
+            "keyMessage": "Buying PC scrap from UAE/Gulf region, USD payment, can arrange Jebel Ali port pickup"
+          },
+          "b2bPlatforms": ["TradeKey", "Alibaba International", "Dubai Chamber B2B"],
+          "currency": "USD / AED",
+          "note": "Sharjah has a dedicated recycling industrial zone. Dubai is a re-export hub for Africa and South Asia."
+        }
+      ]
+    }
+  ]
+}
