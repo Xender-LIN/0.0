@@ -196,16 +196,16 @@
 | 佔位符 | 說明 | 範例值 |
 |--------|------|--------|
 | `[WECHAT_ID]` | 業務微信號 | PC_Recycle_TW |
-| `[PHONE]` | 聯繫電話（含國碼）| +886-X-XXXX-XXXX |
+| `+886909543950` | 聯繫電話（含國碼）| +886-X-XXXX-XXXX |
 | `[EMAIL]` | 業務郵件 | sales@yungjushin.com.tw |
-| `[WHATSAPP]` | WhatsApp號碼 | +886-X-XXXX-XXXX |
-| `[MONTHLY_CAPACITY]` | 月產能（噸）| 200 |
+| `+886909543950` | WhatsApp號碼 | +886-X-XXXX-XXXX |
+| `600` | 月產能（噸）| 200 |
 | `[MONTHLY_PROCUREMENT_QTY]` | 月採購目標（噸）| 150 |
 | `[SELL_PRICE_RANGE]` | 銷售價格範圍 | 8,500-11,000 |
 | `[PROCUREMENT_PRICE_RANGE]` | 收購價格範圍 | 5,000-7,500 |
 | `[PAYMENT_DAYS]` | 付款天數 | 7 |
-| `[YOUR_NAME]` | 業務負責人姓名 | 陳大明 |
-| `[COMPANY_WEBSITE]` | 公司網站 | www.yungjushin.com.tw |
+| `Xender LIN` | 業務負責人姓名 | 陳大明 |
+| `https://www.yongsin.tw/home-en` | 公司網站 | www.yungjushin.com.tw |
 | `[1688_STORE_URL]` | 1688店鋪鏈接 | （開店後填入）|
 | `[ALIBABA_INTL_URL]` | 阿里巴巴國際站 | （開店後填入）|
 | `[SAMPLE_RECEIVING_ADDRESS_TAIWAN]` | 台灣收料樣品地址 | 台灣XXX市XXX路X號 |

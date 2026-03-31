@@ -17,7 +17,7 @@
 ### WA-S-01｜Sales Cold Outreach (Short)
 
 ```
-Hi [NAME], I'm [YOUR_NAME] from Yungjushin Recycled Plastics (Taiwan).
+Hi [NAME], I'm Xender LIN from Yungjushin Recycled Plastics (Taiwan).
 
 We manufacture recycled PC pellets — SGS certified, RoHS compliant, and 30-40% below virgin PC pricing.
 
@@ -44,7 +44,7 @@ Hi [NAME], here's our product overview:
 🔹 SGS tested every batch
 🔹 RoHS 2.0 + REACH compliant
 🔹 Carbon footprint report available
-🔹 Monthly capacity: [CAPACITY] MT
+🔹 Monthly capacity: 600 MT
 
 Price: USD [PRICE_RANGE]/MT (vs. virgin PC ~USD [VIRGIN_PRICE]/MT)
 
@@ -84,7 +84,7 @@ Prices valid until [DATE]. Let me know if you need anything!
 ### WA-P-01｜Procurement Cold Outreach
 
 ```
-Hi [NAME], I'm [YOUR_NAME] from Yungjushin Recycled Plastics (Taiwan).
+Hi [NAME], I'm Xender LIN from Yungjushin Recycled Plastics (Taiwan).
 
 We buy PC scrap and regrind directly from manufacturers and processors. We offer:
 ✅ 10-15% above market rates
@@ -134,7 +134,7 @@ If you have stock, this is a good week to sell. Let me know! 😊
 ### LI-01｜Connection Request Note (Sales)
 
 ```
-Hi [NAME], I'm [YOUR_NAME] from Yungjushin Recycled Plastics in Taiwan. We produce SGS-certified recycled PC pellets for the [INDUSTRY] sector. Would love to connect and share our latest product specs if relevant to your sourcing.
+Hi [NAME], I'm Xender LIN from Yungjushin Recycled Plastics in Taiwan. We produce SGS-certified recycled PC pellets for the [INDUSTRY] sector. Would love to connect and share our latest product specs if relevant to your sourcing.
 ```
 (Character limit: 300 — fits within LinkedIn limit)
 
@@ -159,7 +159,7 @@ Would you be open to a brief 15-minute call to see if there's a fit?
 Happy to send our spec sheet in the meantime.
 
 Best,
-[YOUR_NAME]
+Xender LIN
 ```
 
 ### LI-03｜Follow-up (5 days after first message)
@@ -175,7 +175,7 @@ If yes, our material comes with a full LCA and RCS (Recycled Content Standard) c
 
 Happy to share documentation if useful.
 
-[YOUR_NAME]
+Xender LIN
 ```
 
 ### LI-04｜Connection Request Note (Procurement)
@@ -206,9 +206,9 @@ Does [COMPANY_NAME] generate or aggregate PC plastic waste?
 I'd love to explore whether there's a mutually beneficial arrangement.
 
 Best,
-[YOUR_NAME]
+Xender LIN
 Procurement Manager | Yungjushin Recycled Plastics
-[EMAIL] | WhatsApp: [WHATSAPP]
+[EMAIL] | WhatsApp: +886909543950
 ```
 
 ---

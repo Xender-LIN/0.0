@@ -14,7 +14,7 @@
 **备选标题（A/B测试）：**
 - `PC再生颗粒 聚碳酸酯再生料 MFI稳定 每批检测 台湾直供`
 - `再生PC料 高含量PC粒子 RoHS认证 ESG文件齐全 厂家直销`
-- `台湾再生PC颗粒 电子级 光学级 汽车级 可定制颜色 月供[CAPACITY]吨`
+- `台湾再生PC颗粒 电子级 光学级 汽车级 可定制颜色 月供600吨`
 
 ---
 
@@ -26,7 +26,7 @@
 ✅ 4大等级可选：光学级 / 电子级 / 通用级 / 改性级（汽车）
 ✅ ESG碳足迹报告，支持绿色采购审计
 ✅ ISO 9001认证，RoHS 2.0 / REACH全面合规
-✅ 月供货能力[MONTHLY_CAPACITY]吨，不断货
+✅ 月供货能力600吨，不断货
 
 ---
 
@@ -87,7 +87,7 @@
 
 **【联系方式】**
 📱 微信：[WECHAT_ID]
-📞 电话：[PHONE]
+📞 电话：+886909543950
 📧 Email：[EMAIL]
 🔗 阿里巴巴国际站：[ALIBABA_INTL_URL]
 
@@ -107,10 +107,10 @@
 泳鉅鑫再生塑料股份有限公司成立于[YEAR]年，总部位于台湾，专注于高品质PC（聚碳酸酯）再生颗粒的生产与销售。公司通过ISO 9001质量管理体系认证，产品100%经SGS第三方检测，合规出口至中国大陆及东南亚、欧洲多个国家和地区。
 
 主营产品：再生PC颗粒（光学级、电子级、通用级、改性级）
-月产能：[MONTHLY_CAPACITY]吨
+月产能：600吨
 质量认证：ISO 9001 / SGS / RoHS / REACH
 ESG承诺：每吨产品减少约3.2吨CO₂排放
-联系方式：[PHONE] / [EMAIL] / 微信：[WECHAT_ID]
+联系方式：+886909543950 / [EMAIL] / 微信：[WECHAT_ID]
 ```
 
 ### 产品描述
@@ -122,11 +122,11 @@ ESG承诺：每吨产品减少约3.2吨CO₂排放
 · 品质标准：每批SGS独立检测，含量≥80%（各等级详见规格书）
 · 合规认证：RoHS 2.0 / REACH / ISO 9001
 · ESG支持：碳足迹LCA报告 / 再生含量RCS证书
-· 供货能力：月供[MONTHLY_CAPACITY]吨，稳定不断货
+· 供货能力：月供600吨，稳定不断货
 
 适用行业：电子电气、家用电器、汽车内饰、光学器件、工业设备
 
-询价热线：[PHONE]  微信：[WECHAT_ID]  Email：[EMAIL]
+询价热线：+886909543950  微信：[WECHAT_ID]  Email：[EMAIL]
 ```
 
 ---
@@ -135,7 +135,7 @@ ESG承诺：每吨产品减少约3.2吨CO₂排放
 
 ### 供应信息标题
 ```
-【台湾直供】再生PC颗粒 电子/光学/汽车级 SGS检测 月供[CAPACITY]吨 欢迎询价
+【台湾直供】再生PC颗粒 电子/光学/汽车级 SGS检测 月供600吨 欢迎询价
 ```
 
 ### 供应信息正文
@@ -149,7 +149,7 @@ ESG承诺：每吨产品减少约3.2吨CO₂排放
 起订：3吨起
 发货：台湾高雄港发出，华南约7-10天到港
 
-联系人：[YOUR_NAME]  电话：[PHONE]  微信：[WECHAT_ID]
+联系人：Xender LIN  电话：+886909543950  微信：[WECHAT_ID]
 公司：泳鉅鑫再生塑料股份有限公司（台湾）
 ```
 
@@ -167,7 +167,7 @@ ESG承诺：每吨产品减少约3.2吨CO₂排放
 价格：[PRICE_RANGE]元/吨（询价）
 发货：台湾发出，走正规进口报关
 资质：ISO 9001、SGS、RoHS
-联系：[WECHAT_ID] / [PHONE]
+联系：[WECHAT_ID] / +886909543950
 公司：泳鉅鑫再生塑料（台湾）
 ```
 
@@ -190,7 +190,7 @@ Product Overview:
 • ISO 9001 certified manufacturing in Taiwan
 • RoHS 2.0 + REACH compliant
 • Full carbon footprint LCA report available (ESG documentation)
-• Monthly capacity: [MONTHLY_CAPACITY] MT
+• Monthly capacity: 600 MT
 
 Technical Specifications:
 • MFI: 8–22 g/10min @ 300°C/1.2kg (by grade)
@@ -211,7 +211,7 @@ Shipping:
 
 Certifications: ISO 9001 | SGS | RoHS 2.0 | REACH | Carbon Footprint Report
 
-Contact: [EMAIL] | WhatsApp: [WHATSAPP] | WeChat: [WECHAT_ID]
+Contact: [EMAIL] | WhatsApp: +886909543950 | WeChat: [WECHAT_ID]
 ```
 
 ### Keywords (Alibaba Search Tags)

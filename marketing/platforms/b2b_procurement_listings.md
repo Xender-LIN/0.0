@@ -43,7 +43,7 @@
 
 【联系方式】
 微信：[WECHAT_ID]（发照片即报价，当天响应）
-电话：[PHONE]
+电话：+886909543950
 Email：[EMAIL]
 公司：泳鉅鑫再生塑料股份有限公司（台湾）
 
@@ -77,9 +77,9 @@ Email：[EMAIL]
 付款：货到验收后[PAYMENT_DAYS]个工作日付清，无拖延
 运费：大批量（≥10吨）运费协商，可上门提货
 
-联系人：[YOUR_NAME]
+联系人：Xender LIN
 微信：[WECHAT_ID]（发货源图片，当天报价）
-电话：[PHONE]
+电话：+886909543950
 地区：全国均可，台湾工厂直接采购
 ```
 
@@ -101,9 +101,9 @@ Email：[EMAIL]
 付款：[PAYMENT_DAYS]天内付清
 价格：依含量/颜色/来源，联系面议
 
-联系人：[YOUR_NAME]  
+联系人：Xender LIN  
 微信：[WECHAT_ID]  
-电话：[PHONE]
+电话：+886909543950
 ```
 
 ---
@@ -131,7 +131,7 @@ Email：[EMAIL]
 2. 货到付款，[PAYMENT_DAYS]天内到账
 3. 全程透明，无隐性扣量
 
-联系：[PHONE] / [EMAIL] / 微信：[WECHAT_ID]
+联系：+886909543950 / [EMAIL] / 微信：[WECHAT_ID]
 ```
 
 ---
@@ -161,8 +161,8 @@ Preferred regions: China, Southeast Asia, Europe, Middle East
 Payment: USD, T/T within [PAYMENT_DAYS] business days of receipt
 Testing: SGS third-party verification (results shared transparently)
 
-Contact: [EMAIL] | WhatsApp: [WHATSAPP] | WeChat: [WECHAT_ID]
-Website: [COMPANY_WEBSITE]
+Contact: [EMAIL] | WhatsApp: +886909543950 | WeChat: [WECHAT_ID]
+Website: https://www.yongsin.tw/home-en
 ```
 
 ### IndiaMART（印度）
@@ -182,7 +182,7 @@ Quantity required: [MONTHLY_PROCUREMENT_QTY] MT/month
 Payment: USD or INR equivalent, within [PAYMENT_DAYS] days
 Location: All India accepted (we arrange logistics)
 
-Contact: [EMAIL] | WhatsApp: [WHATSAPP]
+Contact: [EMAIL] | WhatsApp: +886909543950
 ```
 
 ### TradeKey（东南亚/中东）
@@ -207,6 +207,6 @@ Terms:
 - Logistics: we can assist with freight arrangements
 - Monthly volume: [MONTHLY_PROCUREMENT_QTY] MT
 
-Contact us: [EMAIL] | WhatsApp: [WHATSAPP]
+Contact us: [EMAIL] | WhatsApp: +886909543950
 Country: Taiwan | Est. [YEAR]
 ```

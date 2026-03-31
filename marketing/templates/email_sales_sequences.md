@@ -1,7 +1,7 @@
 # 电子邮件序列｜销售端（再生PC颗粒）
 
 > 说明：简体中文版适用大陆市场，英文版适用国际市场
-> 发件人署名：[YOUR_NAME] | 泳鉅鑫再生塑料 | [EMAIL] | [PHONE]
+> 发件人署名：Xender LIN | 泳鉅鑫再生塑料 | [EMAIL] | +886909543950
 > 建议使用工具：Mailchimp / SendGrid / 企业微信邮件群发
 
 ---
@@ -24,7 +24,7 @@
 ```
 [CONTACT_NAME] 您好，
 
-我是台湾泳鉅鑫再生塑料的[YOUR_NAME]，通过[SOURCE: 1688/协会名录/展会]了解到贵司在[INDUSTRY]领域有PC原料采购需求，冒昧联系，请多包涵。
+我是台湾泳鉅鑫再生塑料的Xender LIN，通过[SOURCE: 1688/协会名录/展会]了解到贵司在[INDUSTRY]领域有PC原料采购需求，冒昧联系，请多包涵。
 
 我们专注台湾工业级PC废料的高品质再生加工，主要产品：
 
@@ -32,7 +32,7 @@
 • 每批出SGS第三方检测报告
 • RoHS 2.0 / REACH 全面合规
 • 碳足迹证明（每吨减少约3.2吨CO₂）
-• 月供货能力：[MONTHLY_CAPACITY] 吨
+• 月供货能力：600 吨
 
 与原生PC相比，我们的再生PC颗粒在同等品质下价格优惠30-40%，且具备完整的ESG合规文件，适合有绿色供应链要求的企业。
 
@@ -40,14 +40,14 @@
 
 请问贵司目前在使用或采购PC再生料吗？如有兴趣了解，欢迎回复此邮件或直接联系：
 • 微信：[WECHAT_ID]
-• 电话：[PHONE]
+• 电话：+886909543950
 
 期待有机会合作！
 
-[YOUR_NAME]
+Xender LIN
 泳鉅鑫再生塑料股份有限公司（台湾）
-[EMAIL] | [PHONE] | 微信：[WECHAT_ID]
-[COMPANY_WEBSITE]
+[EMAIL] | +886909543950 | 微信：[WECHAT_ID]
+https://www.yongsin.tw/home-en
 ```
 
 **附件：** pc_pellets_spec.pdf
@@ -77,8 +77,8 @@
 
 如果您近期有PC料采购计划，欢迎告知数量和等级需求，我当天给您报价。
 
-[YOUR_NAME]
-[EMAIL] | [PHONE] | 微信：[WECHAT_ID]
+Xender LIN
+[EMAIL] | +886909543950 | 微信：[WECHAT_ID]
 ```
 
 **附件：** SGS检测报告样本.pdf, 应用案例.pdf
@@ -108,8 +108,8 @@
 
 当然，如果目前没有需求也完全没问题，存着我的联系方式，需要时随时联系。
 
-[YOUR_NAME]
-[EMAIL] | [PHONE] | 微信：[WECHAT_ID]
+Xender LIN
+[EMAIL] | +886909543950 | 微信：[WECHAT_ID]
 ```
 
 ---
@@ -130,12 +130,12 @@
 
 我的联系方式：
 • 微信：[WECHAT_ID]（随时回复）
-• 电话：[PHONE]
+• 电话：+886909543950
 • 邮件：[EMAIL]
 
 期待有机会合作，祝生意顺利！
 
-[YOUR_NAME]
+Xender LIN
 泳鉅鑫再生塑料股份有限公司
 ```
 
@@ -158,7 +158,7 @@
 ```
 Dear [CONTACT_NAME],
 
-I'm [YOUR_NAME] from Yungjushin Recycled Plastics, a Taiwan-based manufacturer of high-quality recycled polycarbonate (PC) pellets.
+I'm Xender LIN from Yungjushin Recycled Plastics, a Taiwan-based manufacturer of high-quality recycled polycarbonate (PC) pellets.
 
 We noticed that [COMPANY_NAME] is active in [INDUSTRY], where PC resin is commonly used. We'd like to introduce our recycled PC pellets as a sustainable, cost-effective alternative to virgin resin.
 
@@ -168,7 +168,7 @@ What we offer:
 ✓ RoHS 2.0 / REACH compliant
 ✓ Full carbon footprint LCA report (approx. 3.2 tons CO₂ saved per ton vs. virgin PC)
 ✓ ISO 9001 certified manufacturing facility in Taiwan
-✓ Monthly capacity: [MONTHLY_CAPACITY] MT
+✓ Monthly capacity: 600 MT
 
 Our recycled PC is priced 30-40% below virgin PC at comparable quality, and comes with complete ESG documentation to support your sustainability reporting.
 
@@ -177,10 +177,10 @@ I've attached our product specification sheet for your reference.
 Would you be open to a quick call this week to discuss your material requirements?
 
 Best regards,
-[YOUR_NAME]
+Xender LIN
 Yungjushin Recycled Plastics Co., Ltd. (Taiwan)
-Email: [EMAIL] | WhatsApp: [WHATSAPP] | WeChat: [WECHAT_ID]
-Website: [COMPANY_WEBSITE]
+Email: [EMAIL] | WhatsApp: +886909543950 | WeChat: [WECHAT_ID]
+Website: https://www.yongsin.tw/home-en
 ```
 
 **Attachment:** PC_Pellets_Spec_EN.pdf
@@ -211,8 +211,8 @@ This systematic quality control is what differentiates us from typical recycled 
 If you have an upcoming PC sourcing requirement, please let me know the grade and quantity, and I'll provide a same-day quote.
 
 Best regards,
-[YOUR_NAME]
-[EMAIL] | WhatsApp: [WHATSAPP]
+Xender LIN
+[EMAIL] | WhatsApp: +886909543950
 ```
 
 ---
@@ -238,8 +238,8 @@ If you have a near-term purchasing plan, this week's pricing is favorable. Price
 
 No pressure if the timing isn't right — just keeping you in the loop.
 
-[YOUR_NAME]
-[EMAIL] | WhatsApp: [WHATSAPP]
+Xender LIN
+[EMAIL] | WhatsApp: +886909543950
 ```
 
 ---
@@ -260,12 +260,12 @@ If any of these apply to you, I'd love to hear back:
 
 My contact details:
 • Email: [EMAIL]
-• WhatsApp: [WHATSAPP]
+• WhatsApp: +886909543950
 • WeChat: [WECHAT_ID]
 
 Wishing you and [COMPANY_NAME] continued success!
 
-[YOUR_NAME]
+Xender LIN
 Yungjushin Recycled Plastics Co., Ltd.
 Taiwan | Est. [YEAR]
 ```
@@ -292,18 +292,18 @@ Taiwan | Est. [YEAR]
 我们的产品信息概要：
 • 产品：再生PC颗粒（光学/电子/通用/改性四个等级）
 • 品质：每批SGS检测，ISO 9001认证，RoHS/REACH合规
-• 供货能力：月产[MONTHLY_CAPACITY]吨
+• 供货能力：月产600吨
 • 优势：台湾品质，ESG文件齐全，稳定供货
 
 期待与贵协会建立长期合作关系，共同推动行业绿色循环发展。
 
 如有任何需要了解的信息，欢迎联系：
-[YOUR_NAME] | [EMAIL] | [PHONE] | 微信：[WECHAT_ID]
+Xender LIN | [EMAIL] | +886909543950 | 微信：[WECHAT_ID]
 
 此致
 敬礼
 
-[YOUR_NAME]
+Xender LIN
 泳鉅鑫再生塑料股份有限公司（台湾）
 [DATE]
 ```

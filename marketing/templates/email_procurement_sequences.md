@@ -1,7 +1,7 @@
 # 电子邮件序列｜采购端（收购PC粗料/粉碎料）
 
 > 目标：联系大陆及国际市场的PC废料供应商、拆解厂、工厂废料部门
-> 发件人：[YOUR_NAME] | 泳鉅鑫再生塑料采购部 | [EMAIL] | [PHONE]
+> 发件人：Xender LIN | 泳鉅鑫再生塑料采购部 | [EMAIL] | +886909543950
 
 ---
 
@@ -22,7 +22,7 @@
 ```
 [CONTACT_NAME] 您好，
 
-我是台湾泳鉅鑫再生塑料的采购负责人[YOUR_NAME]。
+我是台湾泳鉅鑫再生塑料的采购负责人Xender LIN。
 
 我们台湾工厂每月需要大量PC（聚碳酸酯）废料作为生产原料，目前正在[REGION]地区扩展原料收购渠道，诚意寻找稳定的供应合作伙伴。
 
@@ -41,13 +41,13 @@
 
 请问贵司目前有PC废料的产出或库存吗？如有，欢迎回复或联系：
 • 微信：[WECHAT_ID]
-• 电话：[PHONE]
+• 电话：+886909543950
 
 期待合作！
 
-[YOUR_NAME]
+Xender LIN
 泳鉅鑫再生塑料股份有限公司（台湾）采购部
-[EMAIL] | [PHONE]
+[EMAIL] | +886909543950
 ```
 
 ---
@@ -78,8 +78,8 @@
 
 如果您手边有照片，发给我微信[WECHAT_ID]，我可以当天给个初步报价，完全没有压力。
 
-[YOUR_NAME]
-[EMAIL] | 微信：[WECHAT_ID] | [PHONE]
+Xender LIN
+[EMAIL] | 微信：[WECHAT_ID] | +886909543950
 ```
 
 ---
@@ -107,8 +107,8 @@
 
 欢迎联系报量，我当天给确认价格。
 
-[YOUR_NAME]
-[EMAIL] | 微信：[WECHAT_ID] | [PHONE]
+Xender LIN
+[EMAIL] | 微信：[WECHAT_ID] | +886909543950
 ```
 
 ---
@@ -128,12 +128,12 @@
 □ 有意向但在犹豫 → 第一次合作可以从小批量开始（1-2吨），风险低
 
 我的微信：[WECHAT_ID]（随时在线）
-电话：[PHONE]
+电话：+886909543950
 邮件：[EMAIL]
 
 期待未来有合作机会！祝生意兴隆。
 
-[YOUR_NAME]
+Xender LIN
 泳鉅鑫再生塑料股份有限公司（台湾）采购部
 ```
 
@@ -155,7 +155,7 @@
 ```
 Dear [CONTACT_NAME],
 
-My name is [YOUR_NAME], Procurement Manager at Yungjushin Recycled Plastics in Taiwan.
+My name is Xender LIN, Procurement Manager at Yungjushin Recycled Plastics in Taiwan.
 
 We are a manufacturer of high-quality recycled PC pellets and are expanding our raw material sourcing network in [REGION/COUNTRY]. We are actively seeking reliable suppliers of PC (polycarbonate) scrap and regrind.
 
@@ -175,17 +175,17 @@ Why work with us:
 Does your company currently generate or collect PC scrap?
 
 Please reply to this email or contact me directly:
-• WhatsApp: [WHATSAPP]
+• WhatsApp: +886909543950
 • WeChat: [WECHAT_ID]
 • Email: [EMAIL]
 
 Looking forward to a potential partnership.
 
 Best regards,
-[YOUR_NAME]
+Xender LIN
 Procurement Department
 Yungjushin Recycled Plastics Co., Ltd. (Taiwan)
-[EMAIL] | WhatsApp: [WHATSAPP]
+[EMAIL] | WhatsApp: +886909543950
 ```
 
 ---
@@ -215,10 +215,10 @@ The three things that determine our price:
 2. Color (clear/transparent pays 15-20% more)
 3. Source (electronics-grade pays premium)
 
-If you have photos available, send them to WhatsApp [WHATSAPP] and I can give you an initial estimate today.
+If you have photos available, send them to WhatsApp +886909543950 and I can give you an initial estimate today.
 
-[YOUR_NAME]
-[EMAIL] | WhatsApp: [WHATSAPP]
+Xender LIN
+[EMAIL] | WhatsApp: +886909543950
 ```
 
 ---
@@ -247,6 +247,6 @@ PC resin prices have been [trending up/stable/fluctuating] recently, which means
 
 Please let me know if you'd like to move forward. I can confirm pricing same day.
 
-[YOUR_NAME]
-[EMAIL] | WhatsApp: [WHATSAPP]
+Xender LIN
+[EMAIL] | WhatsApp: +886909543950
 ```
