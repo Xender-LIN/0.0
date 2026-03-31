@@ -40,7 +40,7 @@
 ✓ 协助联系跨境物流，减少您的操作复杂度
 
 请问贵司目前有PC废料的产出或库存吗？如有，欢迎回复或联系：
-• 微信：[WECHAT_ID]
+• 微信：xender1688
 • 电话：+886909543950
 
 期待合作！
@@ -76,10 +76,10 @@ Xender LIN
 
 我们最关心的是：含量、颜色、杂质程度——这三点决定价格。
 
-如果您手边有照片，发给我微信[WECHAT_ID]，我可以当天给个初步报价，完全没有压力。
+如果您手边有照片，发给我微信xender1688，我可以当天给个初步报价，完全没有压力。
 
 Xender LIN
-[EMAIL] | 微信：[WECHAT_ID] | +886909543950
+[EMAIL] | 微信：xender1688 | +886909543950
 ```
 
 ---
@@ -108,7 +108,7 @@ Xender LIN
 欢迎联系报量，我当天给确认价格。
 
 Xender LIN
-[EMAIL] | 微信：[WECHAT_ID] | +886909543950
+[EMAIL] | 微信：xender1688 | +886909543950
 ```
 
 ---
@@ -127,7 +127,7 @@ Xender LIN
 □ 对价格有疑虑 → 欢迎寄免费样品，检测结果出来您自己判断值不值
 □ 有意向但在犹豫 → 第一次合作可以从小批量开始（1-2吨），风险低
 
-我的微信：[WECHAT_ID]（随时在线）
+我的微信：xender1688（随时在线）
 电话：+886909543950
 邮件：[EMAIL]
 
@@ -176,7 +176,7 @@ Does your company currently generate or collect PC scrap?
 
 Please reply to this email or contact me directly:
 • WhatsApp: +886909543950
-• WeChat: [WECHAT_ID]
+• WeChat: xender1688
 • Email: [EMAIL]
 
 Looking forward to a potential partnership.

@@ -86,7 +86,7 @@
 ---
 
 **【联系方式】**
-📱 微信：[WECHAT_ID]
+📱 微信：xender1688
 📞 电话：+886909543950
 📧 Email：[EMAIL]
 🔗 阿里巴巴国际站：[ALIBABA_INTL_URL]
@@ -110,7 +110,7 @@
 月产能：600吨
 质量认证：ISO 9001 / SGS / RoHS / REACH
 ESG承诺：每吨产品减少约3.2吨CO₂排放
-联系方式：+886909543950 / [EMAIL] / 微信：[WECHAT_ID]
+联系方式：+886909543950 / [EMAIL] / 微信：xender1688
 ```
 
 ### 产品描述
@@ -126,7 +126,7 @@ ESG承诺：每吨产品减少约3.2吨CO₂排放
 
 适用行业：电子电气、家用电器、汽车内饰、光学器件、工业设备
 
-询价热线：+886909543950  微信：[WECHAT_ID]  Email：[EMAIL]
+询价热线：+886909543950  微信：xender1688  Email：[EMAIL]
 ```
 
 ---
@@ -149,7 +149,7 @@ ESG承诺：每吨产品减少约3.2吨CO₂排放
 起订：3吨起
 发货：台湾高雄港发出，华南约7-10天到港
 
-联系人：Xender LIN  电话：+886909543950  微信：[WECHAT_ID]
+联系人：Xender LIN  电话：+886909543950  微信：xender1688
 公司：泳鉅鑫再生塑料股份有限公司（台湾）
 ```
 
@@ -167,7 +167,7 @@ ESG承诺：每吨产品减少约3.2吨CO₂排放
 价格：[PRICE_RANGE]元/吨（询价）
 发货：台湾发出，走正规进口报关
 资质：ISO 9001、SGS、RoHS
-联系：[WECHAT_ID] / +886909543950
+联系：xender1688 / +886909543950
 公司：泳鉅鑫再生塑料（台湾）
 ```
 
@@ -211,7 +211,7 @@ Shipping:
 
 Certifications: ISO 9001 | SGS | RoHS 2.0 | REACH | Carbon Footprint Report
 
-Contact: [EMAIL] | WhatsApp: +886909543950 | WeChat: [WECHAT_ID]
+Contact: [EMAIL] | WhatsApp: +886909543950 | WeChat: xender1688
 ```
 
 ### Keywords (Alibaba Search Tags)

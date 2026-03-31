@@ -195,7 +195,7 @@
 
 | 佔位符 | 說明 | 範例值 |
 |--------|------|--------|
-| `[WECHAT_ID]` | 業務微信號 | PC_Recycle_TW |
+| `xender1688` | 業務微信號 | PC_Recycle_TW |
 | `+886909543950` | 聯繫電話（含國碼）| +886-X-XXXX-XXXX |
 | `[EMAIL]` | 業務郵件 | sales@yungjushin.com.tw |
 | `+886909543950` | WhatsApp號碼 | +886-X-XXXX-XXXX |

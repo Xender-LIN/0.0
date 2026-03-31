@@ -39,14 +39,14 @@
 附上我们的产品规格书（PDF），方便您参考具体技术参数。
 
 请问贵司目前在使用或采购PC再生料吗？如有兴趣了解，欢迎回复此邮件或直接联系：
-• 微信：[WECHAT_ID]
+• 微信：xender1688
 • 电话：+886909543950
 
 期待有机会合作！
 
 Xender LIN
 泳鉅鑫再生塑料股份有限公司（台湾）
-[EMAIL] | +886909543950 | 微信：[WECHAT_ID]
+[EMAIL] | +886909543950 | 微信：xender1688
 https://www.yongsin.tw/home-en
 ```
 
@@ -78,7 +78,7 @@ https://www.yongsin.tw/home-en
 如果您近期有PC料采购计划，欢迎告知数量和等级需求，我当天给您报价。
 
 Xender LIN
-[EMAIL] | +886909543950 | 微信：[WECHAT_ID]
+[EMAIL] | +886909543950 | 微信：xender1688
 ```
 
 **附件：** SGS检测报告样本.pdf, 应用案例.pdf
@@ -109,7 +109,7 @@ Xender LIN
 当然，如果目前没有需求也完全没问题，存着我的联系方式，需要时随时联系。
 
 Xender LIN
-[EMAIL] | +886909543950 | 微信：[WECHAT_ID]
+[EMAIL] | +886909543950 | 微信：xender1688
 ```
 
 ---
@@ -129,7 +129,7 @@ Xender LIN
 □ 在考虑其他供应商 → 可以提供一批免费样品（5kg），让您直接对比
 
 我的联系方式：
-• 微信：[WECHAT_ID]（随时回复）
+• 微信：xender1688（随时回复）
 • 电话：+886909543950
 • 邮件：[EMAIL]
 
@@ -179,7 +179,7 @@ Would you be open to a quick call this week to discuss your material requirement
 Best regards,
 Xender LIN
 Yungjushin Recycled Plastics Co., Ltd. (Taiwan)
-Email: [EMAIL] | WhatsApp: +886909543950 | WeChat: [WECHAT_ID]
+Email: [EMAIL] | WhatsApp: +886909543950 | WeChat: xender1688
 Website: https://www.yongsin.tw/home-en
 ```
 
@@ -261,7 +261,7 @@ If any of these apply to you, I'd love to hear back:
 My contact details:
 • Email: [EMAIL]
 • WhatsApp: +886909543950
-• WeChat: [WECHAT_ID]
+• WeChat: xender1688
 
 Wishing you and [COMPANY_NAME] continued success!
 
@@ -298,7 +298,7 @@ Taiwan | Est. [YEAR]
 期待与贵协会建立长期合作关系，共同推动行业绿色循环发展。
 
 如有任何需要了解的信息，欢迎联系：
-Xender LIN | [EMAIL] | +886909543950 | 微信：[WECHAT_ID]
+Xender LIN | [EMAIL] | +886909543950 | 微信：xender1688
 
 此致
 敬礼
